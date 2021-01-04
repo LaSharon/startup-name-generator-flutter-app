@@ -1,6 +1,6 @@
-# startup_namer
+# Example Flutter App
 
-A new Flutter project.
+Startup name generator app.
 
 ## Getting Started
 
